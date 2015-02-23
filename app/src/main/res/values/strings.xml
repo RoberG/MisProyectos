@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MisProyectos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_google_json">GoogleJSON</string>
+    <string name="empty_text">No items to display!</string>
+    <string name="no_connection_message">Network is unaviable!</string>
+    <string name="search">search</string>
+    <string name="hint_search">write a term to search</string>
+    <string name="title_activity_actividad__intent_1">Actividad_Intent_1</string>
+    <string name="title_activity_actividad__intent_1_2">Actividad_Intent_1_2</string>
+    <string name="title_activity_actividad__intent_1_b">Actividad_Intent_1_b</string>
+    <string name="title_activity_actividad__intent_2">Actividad_Intent_2</string>
+    <string name="title_activity_actividad__intent_2_b">Actividad_Intent_2_b</string>
+    <string name="title_activity_actividad__intent_3">Actividad_Intent_3</string>
+    <string name="title_activity_actividad__intent_3_b">Actividad_Intent_3_b</string>
+    <string name="title_activity_ciclo_de_vida">Actividad_Ciclo_De_Vida</string>
+    <string name="title_activity_pulsame">Actividad_Pulsame</string>
+    <string name="title_activity_implicit_intents">Actividad_Implicit_Intents</string>
+    <string name="title_activity_broadcast__receiver">Broadcast_Receiver</string>
+    <string name="title_activity_actividad__broadcast__receiver">Actividad_Broadcast_Receiver
+    </string>
+
+</resources>
